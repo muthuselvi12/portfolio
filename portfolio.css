@@ -150,7 +150,7 @@
 
 .backward {
     /* background-color: #161631; */
-    background-image: url('./assets/bgg.avif');
+    background-image: url('../portfolio/assets/bgg.avif');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -211,7 +211,7 @@
     color: #ffffff;
     /* margin: 100px; */
     /* padding: 0; */
-    background-image: url('./assets/bd4.jpg');
+    background-image: url('../portfolio/assets/bd4.jpg');
     text-align: center;
     padding: 20px;
     max-width: 600px;
